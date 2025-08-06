@@ -4,7 +4,13 @@ Bem-vindo ao repositório do desafio de programação da Calpar!
 Este projeto foi desenvolvido para demonstrar habilidades em consumo de API, manipulação de dados e integração de funcionalidades nativas do navegador utilizando React com Next.js.
 
 ---
+## 🌐 Deploy
 
+O projeto está disponível em produção neste link:
+
+👉 [https://desafiocalpar.netlify.app](https://desafiocalpar.netlify.app)
+
+---
 ## Objetivo
 
 Criar uma aplicação que consome uma API pública para listar usuários e exibir suas informações, além de integrar uma funcionalidade nativa do navegador (geolocalização) com exibição de mapa.
