@@ -48,9 +48,9 @@ Obrigado pela oportunidade!
 ## 📷 Imagens do Projeto
 
 ### Tela inicial
-![Tela inicial](./tela.png)
+![Tela inicial](/tela.png)
 
 ### Tela com Mapa e Geolocalização
-![Tela com mapa](./tela1.png)
+![Tela com mapa](/tela1.png)
 
 
