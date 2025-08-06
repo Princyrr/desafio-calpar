@@ -43,11 +43,14 @@ Para dúvidas ou feedback, entre em contato comigo pelo e-mail: princyrpiress@gm
 
 Obrigado pela oportunidade!
 
+
+
 ## 📷 Imagens do Projeto
 
-### Tela Inicial
-<img src="tela.png" width="600" />
+### Tela inicial
+![Tela inicial](./tela.png)
 
-### Tela com Mapa
-<img src="tela1.png" width="600" />
+### Tela com Mapa e Geolocalização
+![Tela com mapa](./tela1.png)
+
 
