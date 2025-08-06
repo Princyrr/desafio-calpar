@@ -42,3 +42,11 @@ Criar uma aplicação que consome uma API pública para listar usuários e exibi
 Para dúvidas ou feedback, entre em contato comigo pelo e-mail: princyrpiress@gmail.com
 
 Obrigado pela oportunidade!
+
+## 📷 Imagens do Projeto
+
+### Tela inicial
+<img src="./tela.png" alt="Tela inicial" width="500"/>
+
+### Tela com Mapa e Geolocalização
+<img src="./tela1.png" alt="Tela com mapa" width="500"/>
