@@ -45,8 +45,9 @@ Obrigado pela oportunidade!
 
 ## 📷 Imagens do Projeto
 
-### Tela inicial
-<img src="./tela.png" alt="Tela inicial" width="500"/>
+### Tela Inicial
+<img src="tela.png" width="600" />
 
-### Tela com Mapa e Geolocalização
-<img src="./tela1.png" alt="Tela com mapa" width="500"/>
+### Tela com Mapa
+<img src="tela1.png" width="600" />
+
