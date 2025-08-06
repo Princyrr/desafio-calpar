@@ -57,28 +57,28 @@ Optei por CSS puro em vez de frameworks como Tailwind por maior controle e simpl
 
 ## Como Rodar Localmente
 * Clone o repositório:
-bash
+
 
 git clone https://github.com/Princyrr/desafio-calpar.git
 
 * Entre na pasta do projeto:
-bash
+
 cd desafio-calpar
 
 * Instale as dependências:
-bash
+
 npm install
 ou
 yarn install
 
 * Execute o projeto:
-bash
+
 npm run dev
 ou
 yarn dev
 
 * Abra no navegador:
-bash
+
 http://localhost:3001
 
 
