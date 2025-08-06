@@ -79,7 +79,7 @@ yarn dev
 
 * Abra no navegador:
 
-http://localhost:3001
+http://localhost:3000
 
 
 ## Contato
